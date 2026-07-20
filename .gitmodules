@@ -1,0 +1,18 @@
+[submodule "BalatroMultiplayer"]
+	path = BalatroMultiplayer
+	url = https://github.com/Balatro-Multiplayer/BalatroMultiplayer.git
+[submodule "BalatroMultiplayerExperimental"]
+	path = BalatroMultiplayerExperimental
+	url = https://github.com/ashraf17m/BalatroMultiplayerExperimental.git
+[submodule "Cartomancer"]
+	path = Cartomancer
+	url = https://github.com/stupxd/Cartomancer.git
+[submodule "HandyBalatro"]
+	path = HandyBalatro
+	url = https://github.com/SleepyG11/HandyBalatro.git
+[submodule "JokerDisplay"]
+	path = JokerDisplay
+	url = https://github.com/nh6574/JokerDisplay.git
+[submodule "smods"]
+	path = smods
+	url = https://github.com/Steamodded/smods.git
