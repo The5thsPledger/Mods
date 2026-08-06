@@ -16,3 +16,6 @@
 [submodule "smods"]
 	path = smods
 	url = https://github.com/Steamodded/smods.git
+[submodule "WhatsInMyFool"]
+	path = WhatsInMyFool
+	url = https://github.com/colonthreeing/WhatsInMyFool.git

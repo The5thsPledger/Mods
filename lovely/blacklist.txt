@@ -2,3 +2,4 @@ BalatroMultiplayer
 Cartomancer
 HandyBalatro
 JokerDisplay
+WhatsInMyFool
