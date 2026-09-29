@@ -3,3 +3,5 @@ Cartomancer
 HandyBalatro
 JokerDisplay
 WhatsInMyFool
+Cryptid
+amulet
